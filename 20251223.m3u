@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Sky" group-title="IPTV",Sky
+udp://@225.3.1.130:1234
+
+#EXTINF:-1 tvg-name="ETV4" group-title="IPTV",ETV4
+udp://@225.3.1.131:1234
+
+#EXTINF:-1 tvg-name="BBC One SE HD" group-title="IPTV",BBC One SE HD
+udp://@225.3.1.132:1234
+
+#EXTINF:-1 tvg-name="BBC Two HD" group-title="IPTV",BBC Two HD
+udp://@225.3.1.133:1234
+
+#EXTINF:-1 tvg-name="STV" group-title="IPTV",STV
+udp://@225.3.1.134:1234
+
+#EXTINF:-1 tvg-name="Channel 4 HD" group-title="IPTV",Channel 4 HD
+udp://@225.3.1.135:1234
+
+#EXTINF:-1 tvg-name="5 HD" group-title="IPTV",5 HD
+udp://@225.3.1.136:1234
+
+#EXTINF:-1 tvg-name="E4" group-title="IPTV",E4
+udp://@225.3.1.137:1234
+
+#EXTINF:-1 tvg-name="Film 4" group-title="IPTV",Film 4
+udp://@225.3.1.138:1234
+
+#EXTINF:-1 tvg-name="ITV2+1" group-title="IPTV",ITV2+1
+udp://@225.3.1.139:1234
+
+#EXTINF:-1 tvg-name="Channel 4+1" group-title="IPTV",Channel 4+1
+udp://@225.3.1.140:1234
+
+#EXTINF:-1 tvg-name="BBC Three HD" group-title="IPTV",BBC Three HD
+udp://@225.3.1.141:1234
+
+#EXTINF:-1 tvg-name="Film 4+1" group-title="IPTV",Film 4+1
+udp://@225.3.1.3:11111
+
+#EXTINF:-1 tvg-name="Legend Xtra" group-title="IPTV",Legend Xtra
+udp://@225.3.1.50:11111
+
+#EXTINF:-1 tvg-name="4seven" group-title="IPTV",4seven
+udp://@225.3.1.23:11111
+
+#EXTINF:-1 tvg-name="E4+1" group-title="IPTV",E4+1
+udp://@225.3.1.7:11111
+
+#EXTINF:-1 tvg-name="E4 Extra" group-title="IPTV",E4 Extra
+udp://@225.3.1.51:11111
+
+#EXTINF:-1 tvg-name="5 Star" group-title="IPTV",5 Star
+udp://@225.3.1.1:11111
+
+#EXTINF:-1 tvg-name="5 Action" group-title="IPTV",5 Action
+udp://@225.3.1.24:11111
+
+#EXTINF:-1 tvg-name="ITV3+1" group-title="IPTV",ITV3+1
+udp://@225.3.1.6:11111
+
+#EXTINF:-1 tvg-name="5 USA" group-title="IPTV",5 USA
+udp://@225.3.1.49:11111
+
+#EXTINF:-1 tvg-name="Channel 22" group-title="IPTV",Channel 22
+udp://@225.3.1.15:11111
+
+#EXTINF:-1 tvg-name="Legend" group-title="IPTV",Legend
+udp://@225.3.1.9:11111
+
+#EXTINF:-1 tvg-name="PBS America" group-title="IPTV",PBS America
+udp://@225.3.1.5:11111
+
+#EXTINF:-1 tvg-name="True Crime" group-title="IPTV",True Crime
+udp://@225.3.1.10:11111
+
+#EXTINF:-1 tvg-name="That's TV" group-title="IPTV",That's TV
+udp://@225.3.1.16:11111
+
+#EXTINF:-1 tvg-name="Babenation" group-title="IPTV",Babenation
+udp://@225.3.1.8:11111
+
+#EXTINF:-1 tvg-name="5 Select" group-title="IPTV",5 Select
+udp://@225.3.1.4:11111
+
+#EXTINF:-1 tvg-name="5+1" group-title="IPTV",5+1
+udp://@225.3.1.18:11111
+
+#EXTINF:-1 tvg-name="Great! TV" group-title="IPTV",Great! TV
+udp://@225.3.1.2:11111
+
+#EXTINF:-1 tvg-name="Great! Action" group-title="IPTV",Great! Action
+udp://@225.3.1.14:11111
+
+#EXTINF:-1 tvg-name="Great! Mystery" group-title="IPTV",Great! Mystery
+udp://@225.3.1.11:11111
+
+#EXTINF:-1 tvg-name="Great! TV+1" group-title="IPTV",Great! TV+1
+udp://@225.3.1.25:11111
+
+#EXTINF:-1 tvg-name="Channel 34" group-title="IPTV",Channel 34
+udp://@225.3.1.17:11111
+
+#EXTINF:-1 tvg-name="ITV4+1" group-title="IPTV",ITV4+1
+udp://@225.3.1.22:11111
+
+#EXTINF:-1 tvg-name="ITV1+1" group-title="IPTV",ITV1+1
+udp://@225.3.1.19:11111
+
+#EXTINF:-1 tvg-name="That's TV 2" group-title="IPTV",That's TV 2
+udp://@225.3.1.20:11111
+
+#EXTINF:-1 tvg-name="Channel 38" group-title="IPTV",Channel 38
+udp://@225.3.1.21:11111
+
+#EXTINF:-1 tvg-name="Channel 39" group-title="IPTV",Channel 39
+udp://@225.3.1.28:11111
+
+#EXTINF:-1 tvg-name="Channel 40" group-title="IPTV",Channel 40
+udp://@225.3.1.29:11111
+
+#EXTINF:-1 tvg-name="Channel 41" group-title="IPTV",Channel 41
+udp://@225.3.1.27:11111
