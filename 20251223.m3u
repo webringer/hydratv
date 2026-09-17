@@ -122,3 +122,6 @@ udp://@225.3.1.29:11111
 
 #EXTINF:-1 tvg-name="Channel 41" group-title="IPTV",Channel 41
 udp://@225.3.1.27:11111
+
+#EXTINF:-1 tvg-name="Windy" group-title="IPTV",Windy
+udp://@239.10.10.12:1234
